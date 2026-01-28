@@ -13,9 +13,9 @@
 ✅ When scanned → phone automatically shows “Connect to Wi-Fi”
 
 
-### How Wi-Fi QR actually works
+## How Wi-Fi QR actually works
 
-## Phones understand this format:
+### Phones understand this format:
 
 WIFI:T:WPA;S:YourWifiName;P:YourPassword;;
 
