@@ -1,4 +1,4 @@
-##Live: https://md-sabeel.github.io/WiFi-QR-Code-Generator/[https://md-sabeel.github.io/WiFi-QR-Code-Generator/]
+##Live: https://md-sabeel.github.io/WiFi-QR-Code-Generator/
 
 ##Demo
 
